@@ -143,7 +143,7 @@ Layer -	Technology
 ### Installation Guide
 #### Step 1: Clone Repository
 
-git clone https://github.com/your-username/JaiAI.git
+git clone https://github.com/jenohsam2006/JaiAI.git
 
 cd JaiAI
 
